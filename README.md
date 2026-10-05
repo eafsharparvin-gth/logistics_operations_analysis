@@ -46,6 +46,10 @@ The Excel dashboard provides an interactive management view of logistics perform
 - Interactive slicers for Carrier, Warehouse, and Vehicle Type
 - Power Query connection for refreshing processed data after Python updates
 
+### Dashboard Preview
+
+![Logistics Operation Dashboard](images/logistics_dashboard.png)
+
 ## Key Insights
 
 - Overall on-time delivery performance was approximately 70%, while about 30% of valid deliveries were late.
