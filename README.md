@@ -61,6 +61,7 @@ The Excel dashboard provides an interactive management view of logistics perform
 
 ## Project Structure
 
+```text
 Logistics_Operations_Analysis/
 │
 ├── data/
@@ -81,7 +82,7 @@ Logistics_Operations_Analysis/
 │──.gitignore
 │──requirements.txt
 └── README.md
-
+```
 
 ## How to Run
 
@@ -92,3 +93,11 @@ Logistics_Operations_Analysis/
 5. On first use, update the Power Query source path to the local 'output/logistics_operations_report.xlsx' file.
 6. Select **Data -> Refresh All** to refresh the Power Query connection, PivotTables, PivotCharts, KPI cards, and dashboard.
 7. Use the Carrier, Warehouse, and Vehicle Type slicers to interactively analyze logistics performance.
+
+## Data Disclaimer
+
+This project uses synthetic logistics and transportation data created for educational and portfolio demonstration purposes.
+
+All shipment records, transportation costs, delivery performance metrics, carrier information, and warehouse performance results are simulated and do not represent actual business operations.
+
+Real city names may be used for route and geographic analysis, but all associated shipment data and numerical results are fictional.
